@@ -1,4 +1,4 @@
-# Insurance Analytics Dashboard (Power BI)
+# Insurance-Portfolio-Analysis-PowerBI
 
 ## Business Objective
 Analyze insurance portfolio performance to identify **premium concentration risk, claim inefficiencies, and policy health issues**, enabling better **risk management, operational efficiency, and data-driven decision-making**.
